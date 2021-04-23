@@ -13,8 +13,7 @@ Get a VPS Microsoft Azure with 2cpu-7gb Ram from Aliya Jaferi with Github:
 + In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
 + Press Add secret
 + Go to Action> CI> Run workflow
-+ Reload the page and press CI> build
-+ Press the down arrow on Connect To Your RPD to get IP, User, Password.
++ заходи на https://dashboard.ngrok.com/endpoints/status И копируем айпи Username: administrator Pass: Lasthope01
 
 *IF You need customized RDP do contact aliyajaferi@protonmail.com* 
 *Please donot involve in minning otherwise RDP will be taken down*
